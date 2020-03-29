@@ -1,0 +1,77 @@
+#main{
+  background-color: #ebebe0;
+  border-radius:10px;
+}
+#title{
+  font-size: 40px;
+  text-align: center;
+  margin: 20px;
+  padding-top : 30px;
+  font-family: 'Comic Neue', cursive;
+  font-weight: 800; 
+ }
+#img{
+  background-color: white;
+  margin:3px 20px 0px 20px;
+  
+  justify-content: center;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+ }
+
+#img-div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+p{
+  margin-top:10px;
+  margin-bottom: 10px;
+  text-align:center;
+  color:dark grey;
+  font-family:'Open Sans', sans-serif;
+  padding: 6px;
+  
+}
+.gen{
+   margin-top:10px;
+  margin-bottom: 10px;
+  text-align:center;
+  font-weight:bold;
+  font-color:light grey;
+  font-family:'Open Sans', sans-serif;
+  font-size: 25px;
+  padding:25px;
+}
+#tribute-info
+{
+  display:flex;
+  flex-direction: column;
+  space-between: 40px;
+  color:#1f1f14;
+  font-family:'Baloo Da 2', cursive;
+  font-size: 18px;
+  margin: 0px 400px 0px 400px;}
+b{
+  color:black;
+}
+li
+{
+margin: 1em ;
+}
+.ne{
+    margin: 0px 4px 0px 30px;
+  color:#4d3319;
+  box-shadow: 0 10px 20px rgba(100,0,0,0.19), 0 6px 6px rgba(200,0,0,0.23);
+  padding:30px;
+}
+
+#tribute-link{
+  margin-top:10px;
+  margin-bottom: 10px;
+  text-align:center;
+  font-weight:bold;
+  font-color:light grey;
+  font-family:'Open Sans', sans-serif;
+  font-size: 25px;
+  padding:25px;
+}
